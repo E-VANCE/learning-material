@@ -51,6 +51,7 @@ PHP for beginners
 Flexbox
 
 - [ ] https://flexbox.io
+- [ ] https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.ubwfrqxau
 
 ## Misc
 
