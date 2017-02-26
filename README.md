@@ -57,8 +57,8 @@ Flexbox
 
 Computer Science Courses
 
-- [ ] [Introduction to Computer Science](https://www.class-central.com/mooc/442/edx-introduction-to-computer-science)(Harvard)
-- [ ] [Algorithms, Part I](https://www.class-central.com/mooc/339/coursera-algorithms-part-i)(Princeton)
+- [ ] [Introduction to Computer Science](https://www.class-central.com/mooc/442/edx-introduction-to-computer-science) (Harvard)
+- [ ] [Algorithms, Part I](https://www.class-central.com/mooc/339/coursera-algorithms-part-i) (Princeton)
 
 GIT
 
