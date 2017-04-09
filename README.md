@@ -52,6 +52,7 @@ Flexbox
 
 - [ ] https://flexbox.io
 - [ ] https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.ubwfrqxau
+- [ ] http://cssgridgarden.com
 
 ## Misc
 
@@ -78,6 +79,7 @@ Webpack
 Blockchain
 
 - [ ] https://anders.com/blockchain/
+- [ ] https://alcamy.org/library/blockchain
 
 Deep Learning
 
