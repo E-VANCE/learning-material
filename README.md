@@ -12,16 +12,21 @@ Intermediate
 
 - [ ] https://javascript30.com
 - [ ] http://eloquentjavascript.net
-- [ ] https://www.udemy.com/react-redux
-- [ ] https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
-- [ ] https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3
-- [ ] http://reactjs.de
-- [ ] https://www.viget.com/articles/learn-you-a-react-native
 
 Pro
 
 - [ ] [Choosing a JavaScript Framework - Rob Eisenberg](https://www.youtube.com/watch?v=6I_GwgoGm1w)
 - [ ] [Exploring functional javascript](https://gziolo.pl/2016/12/21/exploring-functional-javascript)
+
+React
+
+- [ ] http://reactjs.de
+- [ ] https://hackernoon.com/simple-react-development-in-2017-113bd563691f
+- [ ] https://www.udemy.com/react-redux
+- [ ] https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
+- [ ] https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3
+- [ ] https://www.viget.com/articles/learn-you-a-react-native
+- [ ] https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
 
 Backbone.js
 
@@ -89,3 +94,7 @@ Deep Learning
 Courses
 
 - [ ] https://egghead.io
+
+General / Input
+
+- [ ] https://medium.freecodecamp.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab
