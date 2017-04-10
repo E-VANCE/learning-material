@@ -7,6 +7,7 @@ Beginner
 - [ ] https://www.rithmschool.com/courses ([current section](https://www.rithmschool.com/courses/intermediate-javascript-part-2/jquery-animations))
 - [x] http://discover-devtools.codeschool.com
 - [ ] http://jqfundamentals.com
+- [ ] ['this' in JS](https://dev.to/rachelralston/the-this-keyword-in-javascript)
 
 Intermediate
 
@@ -53,11 +54,19 @@ PHP for beginners
 
 ## CSS
 
+Grid
+
+- [ ] [Learn CSS Grid](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
+
 Flexbox
 
 - [ ] https://flexbox.io
 - [ ] https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.ubwfrqxau
 - [ ] http://cssgridgarden.com
+
+Other
+
+- [ ] [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)
 
 ## Misc
 
