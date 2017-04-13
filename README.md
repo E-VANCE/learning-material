@@ -8,6 +8,7 @@ Beginner
 - [x] http://discover-devtools.codeschool.com
 - [ ] http://jqfundamentals.com
 - [ ] ['this' in JS](https://dev.to/rachelralston/the-this-keyword-in-javascript)
+- [ ] [JavaScript Basics YouTube course](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 
 Intermediate
 
