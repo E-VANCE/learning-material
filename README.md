@@ -23,6 +23,7 @@ Pro
 React
 
 - [ ] http://reactjs.de
+- [ ] [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
 - [ ] https://hackernoon.com/simple-react-development-in-2017-113bd563691f
 - [ ] https://www.udemy.com/react-redux
 - [ ] https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
