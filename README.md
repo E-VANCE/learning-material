@@ -24,6 +24,7 @@ React
 
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] http://reactjs.de
+- [ ] [Rithm School React.js fundamentals](https://www.rithmschool.com/courses/react-fundamentals)
 - [ ] [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
 - [ ] https://hackernoon.com/simple-react-development-in-2017-113bd563691f
 - [ ] https://www.udemy.com/react-redux
