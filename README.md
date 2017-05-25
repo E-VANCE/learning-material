@@ -56,6 +56,10 @@ PHP for beginners
 
 - [ ] https://laracasts.com/series/php-for-beginners
 
+Misc
+
+- [ ] [The Twelve Factor WordPress App](https://roots.io/twelve-factor-wordpress/)
+
 ## CSS
 
 Grid
