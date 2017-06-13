@@ -44,8 +44,8 @@ ES6
 
 RxJS
 
-- [ ] [https://medium.com/@mutebg/learn-rxjs-by-examples-c56bf481bec2](Learn RxJS by examples)
-- [ ] [https://egghead.io/browse/libraries/rxjs](Egghead RxJS course)
+- [ ] [Learn RxJS by examples](https://medium.com/@mutebg/learn-rxjs-by-examples-c56bf481bec2)
+- [ ] [Egghead RxJS course](https://egghead.io/browse/libraries/rxjs)
 
 ## WordPress
 
