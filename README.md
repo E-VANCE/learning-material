@@ -42,6 +42,11 @@ ES6
 
 - [ ] https://es6cheatsheet.com/
 
+RxJS
+
+- [ ] [https://medium.com/@mutebg/learn-rxjs-by-examples-c56bf481bec2](Learn RxJS by examples)
+- [ ] [https://egghead.io/browse/libraries/rxjs](Egghead RxJS course)
+
 ## WordPress
 
 API
