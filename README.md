@@ -121,6 +121,7 @@ Deep Learning
 Courses
 
 - [ ] https://egghead.io
+- [ ] [FreeCodeCamp](https://www.freecodecamp.com/)
 
 General / Input
 
