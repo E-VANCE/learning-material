@@ -1,8 +1,6 @@
 *Stuff to shove down my brain-throat and other useful links*
 
----
 How about this: [Learn Anything](https://learn-anything.xyz/) !
----
 
 ## JavaScript
 
