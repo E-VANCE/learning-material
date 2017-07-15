@@ -121,6 +121,7 @@ Deep Learning
 
 - [ ] https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016
 - [ ] https://www.kaggle.com
+- [ ] [Machine Learning Courses ranked by reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 
 Courses
 
