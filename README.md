@@ -1,6 +1,6 @@
 *Stuff to shove down my brain-throat and other useful links*
 
-How about this: [Learn Anything](https://learn-anything.xyz/) !
+How about this: [Learn Anything](https://learn-anything.xyz/)!
 
 This is also pretty good for guidance: [Roadmap to becoming a web developer in 2017](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 
@@ -27,6 +27,7 @@ Pro
 React
 
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+- [ ] (Live Coding of a React Project by FreeCodeCamp)[https://www.youtube.com/watch?v=OUPBEpfBEXo&index=1&list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc]
 - [ ] http://reactjs.de
 - [ ] [Rithm School React.js fundamentals](https://www.rithmschool.com/courses/react-fundamentals)
 - [ ] [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
