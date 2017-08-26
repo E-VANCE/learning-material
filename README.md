@@ -27,6 +27,7 @@ Pro
 
 React
 
+- [ ] [A Cartoon Introduction into React](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] [Live Coding of a React Project by FreeCodeCamp](https://www.youtube.com/watch?v=OUPBEpfBEXo&index=1&list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc)
 - [ ] http://reactjs.de
