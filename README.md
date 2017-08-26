@@ -98,18 +98,19 @@ Computer Science Courses
 
 GIT
 
-- [ ] https://blog.marvelapp.com/designers-guide-git
-- [ ] https://www.codeschool.com/courses/try-git
-- [ ] https://wppusher.com/wordpress-git-crash-course
+- [ ] [GitHowTo](https://githowto.com)
+- [ ] [A Designers Guide To Git](https://blog.marvelapp.com/designers-guide-git)
+- [ ] [CodeSchool Git Course](https://www.codeschool.com/courses/try-git)
+- [ ] [WordPress Git Crash Course](https://wppusher.com/wordpress-git-crash-course)
 
 CLI
 
-- [ ] https://commandlinepoweruser.com
-- [ ] https://cmdchallenge.com
+- [ ] [Command Line Power User](https://commandlinepoweruser.com)
+- [ ] [CMD Challange](https://cmdchallenge.com)
 
 Webpack
 
-- [ ] https://blog.tighten.co/unpacking-webpack
+- [ ] [Unpacking Webpack](https://blog.tighten.co/unpacking-webpack)
 
 PWAs
 
@@ -128,8 +129,8 @@ Deep Learning
 
 Courses
 
-- [ ] https://egghead.io
-- [ ] [freeCodeCamp](https://www.freecodecamp.com/)
+- [ ] [EggHead](https://egghead.io)
+- [ ] [freeCodeCamp](https://www.freecodecamp.com)
 
 General / Input
 
