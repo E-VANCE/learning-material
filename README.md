@@ -8,8 +8,8 @@ This is also pretty good for guidance: [Roadmap to becoming a web developer in 2
 
 Beginner
 
-- [ ] https://www.rithmschool.com/courses ([current section](https://www.rithmschool.com/courses/intermediate-javascript-part-2/jquery-animations))
-- [x] http://discover-devtools.codeschool.com
+- [ ] [Rithm School Free JS Course](https://www.rithmschool.com/courses) ([current section](https://www.rithmschool.com/courses/intermediate-javascript-part-2/jquery-animations))
+- [x] [Discover Chrome DevTools](http://discover-devtools.codeschool.com)
 - [ ] http://jqfundamentals.com
 - [ ] ['this' in JS](https://dev.to/rachelralston/the-this-keyword-in-javascript)
 - [ ] [JavaScript Basics YouTube course](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
@@ -30,7 +30,8 @@ React
 - [ ] [A Cartoon Introduction into React](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] [Live Coding of a React Project by FreeCodeCamp](https://www.youtube.com/watch?v=OUPBEpfBEXo&index=1&list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc)
-- [ ] http://reactjs.de
+- [ ] [CodeWars](https://www.codewars.com/?language=javascript)
+- [ ] [ReactJS / DE](http://reactjs.de)
 - [ ] [Rithm School React.js fundamentals](https://www.rithmschool.com/courses/react-fundamentals)
 - [ ] [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
 - [ ] https://hackernoon.com/simple-react-development-in-2017-113bd563691f
