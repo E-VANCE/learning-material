@@ -40,6 +40,7 @@ React
 - [ ] https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3
 - [ ] https://www.viget.com/articles/learn-you-a-react-native
 - [ ] https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
+- [ ] [Real world React apps](https://github.com/jeromedalbert/real-world-react-apps)
 
 Backbone.js
 
