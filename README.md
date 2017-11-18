@@ -17,27 +17,28 @@ Beginner
 
 Intermediate
 
-- [ ] https://javascript30.com
-- [ ] http://eloquentjavascript.net
+- [ ] [JavaScript30 by Wes Bos](https://javascript30.com)
+- [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
 
 Pro
 
 - [ ] [Choosing a JavaScript Framework - Rob Eisenberg](https://www.youtube.com/watch?v=6I_GwgoGm1w)
-- [ ] [Exploring functional javascript](https://gziolo.pl/2016/12/21/exploring-functional-javascript)
+- [ ] [Exploring functional JavaScript](https://gziolo.pl/2016/12/21/exploring-functional-javascript)
 
 React
 
 - [ ] [A Cartoon Introduction into React](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
+- [ ] [5 Topics To Master Before Learning React](https://www.rithmschool.com/blog/5-topics-to-master-before-learning-react)
+- [ ] [The 5 Things You Need To Know To Understand React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
 - [ ] [Live Coding of a React Project by FreeCodeCamp](https://www.youtube.com/watch?v=OUPBEpfBEXo&index=1&list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc)
 - [ ] [CodeWars](https://www.codewars.com/?language=javascript)
 - [ ] [ReactJS / DE](http://reactjs.de)
 - [ ] [Rithm School React.js fundamentals](https://www.rithmschool.com/courses/react-fundamentals)
 - [ ] [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
-- [ ] https://hackernoon.com/simple-react-development-in-2017-113bd563691f
-- [ ] https://www.udemy.com/react-redux
+- [ ] [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
+- [ ] [React & Redux by Udemy](https://www.udemy.com/react-redux)
 - [ ] https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
-- [ ] https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3
 - [ ] https://www.viget.com/articles/learn-you-a-react-native
 - [ ] https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
 - [ ] [Real world React apps](https://github.com/jeromedalbert/real-world-react-apps)
@@ -93,6 +94,10 @@ Other
 
 ## Misc
 
+GraphQL
+
+- [ ] [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+
 Computer Science Courses
 
 - [ ] [Introduction to Computer Science](https://www.class-central.com/mooc/442/edx-introduction-to-computer-science) (Harvard)
@@ -113,6 +118,10 @@ CLI
 Webpack
 
 - [ ] [Unpacking Webpack](https://blog.tighten.co/unpacking-webpack)
+
+RegEx
+
+- [ ] [Learn RegEx The Easy Way](https://github.com/zeeshanu/learn-regex)
 
 PWAs
 
