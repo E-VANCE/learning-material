@@ -19,6 +19,7 @@ Intermediate
 
 - [ ] [JavaScript30 by Wes Bos](https://javascript30.com)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
+- [ ] [JS Robot game](https://lab.reaal.me/jsrobot/)
 
 Pro
 
@@ -102,6 +103,7 @@ Computer Science Courses
 
 - [ ] [Introduction to Computer Science](https://www.class-central.com/mooc/442/edx-introduction-to-computer-science) (Harvard)
 - [ ] [Algorithms, Part I](https://www.class-central.com/mooc/339/coursera-algorithms-part-i) (Princeton)
+- [ ] [Playground for algorithms & data structures](http://cs-playground-react.surge.sh/)
 
 GIT
 
