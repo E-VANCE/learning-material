@@ -28,6 +28,7 @@ Pro
 
 React
 
+- [ ] [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 - [ ] [A Cartoon Introduction into React](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] [5 Topics To Master Before Learning React](https://www.rithmschool.com/blog/5-topics-to-master-before-learning-react)
