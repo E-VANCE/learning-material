@@ -35,6 +35,7 @@ React
 - [ ] [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [ ] [5 Topics To Master Before Learning React](https://www.rithmschool.com/blog/5-topics-to-master-before-learning-react)
 - [ ] [The 5 Things You Need To Know To Understand React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
+- [ ] [React Starter Kit](https://glitch.com/react-starter-kit)
 - [ ] [Live Coding of a React Project by FreeCodeCamp](https://www.youtube.com/watch?v=OUPBEpfBEXo&index=1&list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc)
 - [ ] [CodeWars](https://www.codewars.com/?language=javascript)
 - [ ] [ReactJS / DE](http://reactjs.de)
