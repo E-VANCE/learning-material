@@ -20,8 +20,9 @@ Beginner
 Intermediate
 
 - [ ] [JavaScript30 by Wes Bos](https://javascript30.com)
-- [ ] [Eloquent JavaScript](http://eloquentjavascript.net)
+- [ ] Jam-packed Ebook "[Eloquent JavaScript](http://eloquentjavascript.net)" **(!!)**
 - [ ] [JS Robot game](https://lab.reaal.me/jsrobot/)
+- [ ] [JavaScript handbook for the next DEV-interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 
 Pro
 
@@ -43,10 +44,9 @@ React
 - [ ] [React Fundamentals](https://reacttraining.com/online/react-fundamentals)
 - [ ] [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)
 - [ ] [React & Redux by Udemy](https://www.udemy.com/react-redux)
-- [ ] https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
-- [ ] https://www.viget.com/articles/learn-you-a-react-native
-- [ ] https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
+- [ ] [React / Flux tutorial](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial)
 - [ ] [Real world React apps](https://github.com/jeromedalbert/real-world-react-apps)
+- [ ] [All the fundamental React concepts in one article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 
 Backbone.js
 
@@ -86,6 +86,7 @@ Grid
 
 - [ ] [Learn CSS Grid](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 - [ ] [Grid Garden](http://cssgridgarden.com/)
+- [ ] [CSS Grid course by Scrimba](https://scrimba.com/g/gR8PTE)
 
 Flexbox
 
