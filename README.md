@@ -86,13 +86,15 @@ Grid
 
 - [ ] [Learn CSS Grid](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
 - [ ] [Grid Garden](http://cssgridgarden.com/)
-- [ ] [CSS Grid course by Scrimba](https://scrimba.com/g/gR8PTE)
+- [ ] [CSS Grid course](https://scrimba.com/g/gR8PTE) by Scrimba
+- [ ] [CSS Grid garden](http://cssgridgarden.com)
+- [ ] [CSS Grid course](https://cssgrid.io) by Wes Bos
 
 Flexbox
 
-- [ ] https://flexbox.io
-- [ ] https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.ubwfrqxau
-- [ ] http://cssgridgarden.com
+- [ ] [Flexbox.io](https://flexbox.io)
+- [ ] [An animated guide to Flexbox](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.ubwfrqxau)
+- [ ] [Flexbox course](https://scrimba.com/g/gflexbox) by Scrimba
 
 Other
 
