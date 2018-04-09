@@ -130,7 +130,7 @@ Webpack
 
 RegEx
 
-- [ ] [Learn RegEx The Easy Way](https://github.com/zeeshanu/learn-regex)
+- [ ] [Learn RegEx The Easy Way](https://github.com/zeeshanu/learn-regex)
 
 PWAs
 
@@ -154,4 +154,5 @@ Courses
 
 General / Input
 
-- [ ] https://medium.freecodecamp.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab
+- [ ] [How I got a second degree and earned 5 Developer certifications in just one year](https://medium.freecodecamp.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab)
+- [ ] [How I went from Newbie to Software Engineer in 9 months](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847)
