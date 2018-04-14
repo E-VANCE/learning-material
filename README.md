@@ -47,6 +47,7 @@ React
 - [ ] [React / Flux tutorial](https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial)
 - [ ] [Real world React apps](https://github.com/jeromedalbert/real-world-react-apps)
 - [ ] [All the fundamental React concepts in one article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+- [ ] [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 
 Backbone.js
 
@@ -61,6 +62,10 @@ RxJS
 
 - [ ] [Learn RxJS by examples](https://medium.com/@mutebg/learn-rxjs-by-examples-c56bf481bec2)
 - [ ] [Egghead RxJS course](https://egghead.io/browse/libraries/rxjs)
+
+D3.js
+
+- [ ] [Learn D3.js for free](https://scrimba.com/g/gd3js)
 
 ## WordPress
 
