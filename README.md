@@ -6,6 +6,8 @@ This is also pretty good for guidance: [Roadmap to becoming a web developer in 2
 
 General skill: [10-finger-training](https://www.schreibtrainer.com)
 
+Check out the [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 ## JavaScript
 
 Beginner
