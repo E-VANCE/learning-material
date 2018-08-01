@@ -30,6 +30,7 @@ Pro
 
 - [ ] [Choosing a JavaScript Framework - Rob Eisenberg](https://www.youtube.com/watch?v=6I_GwgoGm1w)
 - [ ] [Exploring functional JavaScript](https://gziolo.pl/2016/12/21/exploring-functional-javascript)
+- [ ] [70 exercises with JavaScript Callbacks](https://paqmind.com/tutorials/async-programming/callbacks/)
 
 React
 
